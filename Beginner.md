@@ -1,5 +1,5 @@
 ##Project Name
-#Beginner
+<h1>Beginner</h1>
 
 ##team Name
 #1.Aryan barnwal
